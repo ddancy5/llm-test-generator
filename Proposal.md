@@ -61,9 +61,5 @@ The goal of this project is to develop a software tool that leverages Large Lang
   - CI/CD automation script
   - README file with usage instructions
 
-## 🔮 Future Extensions (Optional)
-- Support for additional languages (e.g., JavaScript, Java)
-- Interactive Web Interface for uploading projects and viewing test reports
-- Integration with Docker for isolated test environments
 
 
