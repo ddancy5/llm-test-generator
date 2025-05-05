@@ -1,7 +1,7 @@
-# 📄 Project Proposal: AutoTest-LLM
+# 📄 Project Proposal: llm-test-generator
 
 ## 🧠 Project Name
-**AutoTest-LLM** – Automated Test Case Generation using Large Language Models
+**llm-test-generator** – Automated Test Case Generation using Large Language Models
 
 ---
 
@@ -51,18 +51,6 @@ The goal of this project is to develop a software tool that leverages Large Lang
 - **GitHub Actions**: To automate the execution of generated test suites
 - **Markdown & YAML**: For documentation and workflow configuration
 
----
-
-## 👥 Team Roles & Responsibilities
-| Name              | Role                     | Responsibility                                     |
-|-------------------|--------------------------|----------------------------------------------------|
-| [Member 1]        | Project Manager           | Organize tasks, track deadlines, and communication |
-| [Member 2]        | LLM Integration Engineer  | LLM prompt engineering and response handling       |
-| [Member 3]        | Test Suite Developer      | Organize and format test cases                     |
-| [Member 4]        | Automation & Deployment   | Setup GitHub Actions and automation workflows      |
-
----
-
 ## 📌 Deliverables
 - `Specifications.md`: Detailed explanation of tool functionality
 - `Proposal.md`: This file
@@ -72,18 +60,6 @@ The goal of this project is to develop a software tool that leverages Large Lang
   - Generated test cases
   - CI/CD automation script
   - README file with usage instructions
-
----
-
-## ✅ Timeline for Part 1
-| Milestone                     | Deadline         |
-|------------------------------|------------------|
-| Group Formation               | [Insert Date]    |
-| Project Proposal Finalized    | [Insert Date]    |
-| GitHub Repository Created     | [Insert Date]    |
-| Specifications & README Ready | [Insert Date]    |
-
----
 
 ## 🔮 Future Extensions (Optional)
 - Support for additional languages (e.g., JavaScript, Java)
